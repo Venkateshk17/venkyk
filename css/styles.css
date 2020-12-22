@@ -1,0 +1,142 @@
+body{
+  background-color: #e7dfd5;
+  text-align: center;
+  font-family:cursive;
+  color: #40514E;
+}
+.sub{
+  font-size: 200%;
+  font-style: italic;
+  color: #ea2c62;
+  text-align: center;
+}
+.topimage{
+  width: 150px;
+  margin-top: 0;
+  margin-right: 10%;
+  margin-bottom:0 ;
+margin-left: 10%;
+}
+
+
+h1{
+  font-size: 562%;
+margin-top: 0;
+margin-right: auto;
+margin-bottom: 0;
+margin-left: auto;
+font-family:serif;
+color: #fa26a0;
+font-weight: bolder;
+}
+h2{
+
+  font-size: 300%;
+  color: #7d0633;
+  font-family:'Brush Script MT', cursive;
+
+}
+h3{
+  font-family:Copperplate, Papyrus, fantasy;
+  color: #ec0101;
+  font-size: 50px;
+  text-align: left;
+}
+.me{text-align: center;
+color: #fa26a0;
+}
+span{
+  text-decoration:line-through;
+  font-size: 30px;
+}
+.bottom{
+
+}
+.img3{
+  position: relative;
+  bottom:650px;
+  width: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+}
+p{
+  line-height: 1;
+  text-align: left;
+}
+.p2{
+  text-align: center;
+  color: blue;
+}
+.rcb{
+  color: red;
+  font-size: 30px;
+  text-align: center;
+
+}
+.float1{
+  float: left;
+  margin-right: 30px;
+  border-radius: 100%;
+}
+.float2{
+  float: right;
+  margin-left: 30px;
+  border-radius: 140%;
+}
+.profile{
+  margin: 50px auto 0 0;
+}
+.Fluent{
+  color: #fa1616;
+  font-family: serif;
+  font-size: 30px;
+}
+#Whatsapp{
+  text-align: center;
+}
+hr{
+  border: dotted;
+  color: #393e46;
+  width: 6px;
+  border-bottom: none;
+  width: 30%;
+  border-top: 50%;
+}
+.btn {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  background: #34b8d9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fa523c;
+  background-image: -webkit-linear-gradient(top, #fa523c, #3cd934);
+  background-image: -moz-linear-gradient(top, #fa523c, #3cd934);
+  background-image: -ms-linear-gradient(top, #fa523c, #3cd934);
+  background-image: -o-linear-gradient(top, #fa523c, #3cd934);
+  background-image: linear-gradient(to bottom, #fa523c, #3cd934);
+  text-decoration: none;
+  margin: 10 10 10 10;
+}
+.bottom-container{
+  background-color: #f6d743;
+margin: 100PX 0 0 0 ;
+}
+a{
+  color: red;
+  text-decoration: none;
+}
+.CR{
+  text-align: center;
+  color: black;
+  padding-top: 20px;
+}
